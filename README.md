@@ -1,2 +1,2 @@
-# Python-plot-rz
+# Python-array-plot
 introduction- python , arrays
